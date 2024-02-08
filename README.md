@@ -1,7 +1,7 @@
 {
-  "name": "ugurcanuzun",
-  "website": "https://twitter.com/birkriptotanesi",
+  "name": "ugurcan53",
+  "website": "https://github.com/mjordan23",
   "description": "mezonisgoat",
-  "logo": "https://i.ibb.co/qd2c0J4/eigenlogo.pn",
+  "logo": "https://r.resimlink.com/Moj5e.png",
   "twitter": "https://twitter.com/birkriptotanesi"
 }
